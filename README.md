@@ -8,7 +8,7 @@ _...but you can call me Zibi 👌 (shorter and less difficult for some 🙊)_
 **SECURITY** - I like to solve puzzles and look for holes 🔓  
 _and there are so many different possibilities... blockchain, testing, DevOps etc. Haven't tried yet, but who knows 😏_
 
-### Anyway - I feel pretty at ease with **HTML, CSS, JavaScript**, familiar with **TypeScript**, **Node** and tools like:
+### Anyway - I feel pretty at ease with **HTML, CSS, JavaScript**, familiar with **TypeScript**, **Node**, **Angular** and tools like:
 - VSC
 - Git
 - NPM
