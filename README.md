@@ -8,7 +8,7 @@ _...but you can call me Zibi 👌 (shorter and less difficult for some 🙊)_
 **SECURITY** - I like to solve puzzles and look for holes 🔓  
 _and there are so many different possibilities... blockchain, testing, DevOps etc. Haven't tried yet, but who knows 😏_
 
-### Anyway - I feel pretty at ease with **HTML, CSS, JavaScript**, familiar with **TypeScript**, **Node**, **Angular** and tools like:
+### Anyway - I feel pretty at ease with **HTML, CSS, JavaScript**, familiar with **TypeScript**, **Angular**, **Node** and tools like:
 - VSC
 - Git
 - NPM
@@ -17,14 +17,15 @@ _and there are so many different possibilities... blockchain, testing, DevOps et
 - Parcel
 - ESLint
 - Chrome DevTools  
+- Angular Material
+- SCSS
 ---  
 #### Tech's and tools to learn in the near future:
+- enhancing the knowledge of Angular (NgRx, unit testing)
+- Express.js
 - React and Redux
 - Next.js
-- Express.js
 - PHP (maybe 😏)
-- PWA
-- Webstorm
 - Figma
 
 ### Cheers! 👨‍🦲 🤝
