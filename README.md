@@ -1,5 +1,5 @@
 # 👋 Hello, I am Zbyszek!
-_...but you can call me Zibi 👌 (shorter and less difficult for some 🙊)_
+_...but you can call me Zibi 👌
 
 **My goal is to become Web Developer**, but I have not decided yet what exactly I want to do in web development area 🤷‍♂️
 
