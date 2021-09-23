@@ -6,15 +6,12 @@
 **FRONTEND** - that's what I am learning now 📖  
 **BACKEND** - looks pretty awesome IMHO 🧬  
 **SECURITY** - I like to solve puzzles and look for holes 🔓  
-_and there are so many different possibilities... blockchain, testing, DevOps etc. Haven't tried yet, but who knows 😏_
+_and there is so many different possibilities..._
 
-### Anyway - I feel pretty at ease with **HTML, CSS, JavaScript**, familiar with **TypeScript**, **Angular**, **Node** and tools like:
+### Anyway - I feel pretty at ease with **HTML, CSS, JavaScript**, familiar with **TypeScript**, **Angular**, **Node**, **Express** and tools like:
 - VSC
 - Git
 - NPM
-- Webpack
-- Babel
-- Parcel
 - ESLint
 - Chrome DevTools  
 - Angular Material
@@ -22,10 +19,9 @@ _and there are so many different possibilities... blockchain, testing, DevOps et
 ---  
 #### Tech's and tools to learn in the near future:
 - enhancing the knowledge of Angular (NgRx, unit testing)
-- Express.js
 - React and Redux
 - Next.js
-- PHP (maybe 😏)
+- AWS
 - Figma
 
 ### Cheers! 👨‍🦲 🤝
