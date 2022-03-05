@@ -7,7 +7,7 @@
 **SECURITY** - I like to solve puzzles and look for holes 🔓  
 _and there is so many different possibilities..._
 
-### Anyway - I feel pretty at ease with **HTML, CSS, JavaScript**, familiar with **TypeScript**, **Angular**, **Node**, **Express** and tools like:
+### Anyway - I feel pretty at ease with **HTML, CSS, JavaScript**, familiar with **TypeScript**, **Angular**, **React**, **Node**, **Express** and tools like:
 - VSC
 - Git
 - NPM
@@ -17,8 +17,7 @@ _and there is so many different possibilities..._
 - SCSS
 ---  
 #### Tech's and tools to learn in the near future:
-- enhancing the knowledge of Angular (NgRx, unit testing)
-- React and Redux
+- enhancing the knowledge of Angular (NgRx, unit testing) and React 
 - Next.js
 - AWS
 - Figma
