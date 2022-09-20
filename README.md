@@ -20,7 +20,7 @@ familiar with:
 - **Angular**  
 - **Node** 
 - **Express** 
-- **Next JS
+- **Next JS**
 - **TailwindCSS**
 ---  
 
