@@ -12,6 +12,7 @@ _and there is so many different possibilities..._
 - **CSS**
 - **JavaScript**
 - **React**
+---  
 
 familiar with:
 
@@ -21,6 +22,8 @@ familiar with:
 - **Express** 
 - **Next JS
 - **TailwindCSS**
+---  
+
 and tools like:
 
 - VSC
