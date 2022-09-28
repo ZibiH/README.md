@@ -4,7 +4,7 @@
 
 **FRONTEND** - that's what I am learning now 📖  
 **BACKEND** - looks pretty awesome IMHO 🧬  
-**SECURITY** - I like to solve puzzles and look for holes 🔓  
+**SECURITY** - I like to solve puzzles 🔓  
 _and there is so many different possibilities..._
 
 ### Anyway - I feel pretty at ease with: 
